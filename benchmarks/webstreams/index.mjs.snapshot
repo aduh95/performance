@@ -1,0 +1,62 @@
+exports[`byob-reader.js 1`] = `
+[
+  {
+    "activePromises": 99,
+    "totalPromises": 218
+  }
+]
+`;
+
+exports[`fetch-data-url.js 1`] = `
+[
+  {
+    "activePromises": 8,
+    "totalPromises": 17
+  }
+]
+`;
+
+exports[`fetch-http.js 1`] = `
+[
+  {
+    "activePromises": 99,
+    "totalPromises": 601
+  }
+]
+`;
+
+exports[`index.mjs.snapshot 1`] = `
+[
+  {
+    "activePromises": -3,
+    "totalPromises": 0
+  }
+]
+`;
+
+exports[`readable-from-iterable.js 1`] = `
+[
+  {
+    "activePromises": 39,
+    "totalPromises": 44
+  }
+]
+`;
+
+exports[`readable-stream.js 1`] = `
+[
+  {
+    "activePromises": 40,
+    "totalPromises": 127
+  }
+]
+`;
+
+exports[`stream-consummers.js 1`] = `
+[
+  {
+    "activePromises": 22,
+    "totalPromises": 66
+  }
+]
+`;
